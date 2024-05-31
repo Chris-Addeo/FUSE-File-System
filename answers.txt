@@ -1,0 +1,22 @@
+Name: Christopher Addeo
+net ID: cda8682
+NYU ID(N#): N12468728
+
+Collaborators (who you talked to about the lab, what you talked about):
+
+
+Source material that you consulted:
+
+
+Other acknowledgments: 0 Late days Used
+
+
+How long did this lab take you? A very long time
+
+
+Anything else you'd like us to know:
+
+
+Extra credit exercise(s) (describe what you coded):
+
+I completed Step 6 for extra credit (did k-loader.c and kernel.c changes)
